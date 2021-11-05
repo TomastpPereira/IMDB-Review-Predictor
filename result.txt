@@ -1,0 +1,228 @@
+Testing Against Positive Reviews
+No. 1 mindblowing!!!!
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 2 life with fire
+-5.430349478195072 -7.720907268248516 Positive Positive Correct
+No. 3 one of the biggest nail-biters of the season.
+-5.827673029017823 -8.550211041079542 Positive Positive Correct
+No. 4 lower key
+-6.601228527712317 -8.67514977768784 Positive Positive Correct
+No. 5 rabid dog is a rabid episode.
+-9.342559721851426 -12.548330824719937 Positive Positive Correct
+No. 6 breaking bad is the best
+-1.7049649620082277 -3.778487634806223 Positive Positive Correct
+No. 7 wow!!!
+-2.837438116513785 -4.45518124443109 Positive Positive Correct
+No. 8 to hajilee!
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 9 can it get any better than this?
+-3.701603827237601 -6.176839223898241 Positive Positive Correct
+No. 10 "to'hajiilee" is the "dead freight" of the second half of season 5
+-13.342232642824994 -18.099701531326716 Positive Positive Correct
+No. 11 beyond awesome.....can't imagine what's in store for last 3 episodes
+-15.813548872806928 -20.610183941562298 Positive Positive Correct
+No. 12 breaking bad outdoing themselves for the thousandth time!
+-5.696997161661565 -7.462074952378989 Positive Positive Correct
+No. 13 out heisenberg heisenberg
+-4.472795246034326 -7.069485662091054 Positive Positive Correct
+No. 14 one of the best episodes
+-3.4808070072755006 -6.230064754968487 Positive Positive Correct
+No. 15 the bb episode
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 16 greatest show on earth
+-5.759408197459296 -8.374119782023861 Positive Positive Correct
+No. 17 shocking intense awesome i'm still shaking
+-13.085510052407667 -18.44172522775531 Positive Positive Correct
+No. 18 a reunion in the desert
+-6.49977088695354 -8.37411978202386 Positive Positive Correct
+No. 19 one of the most crucial episodes
+-5.391431412164702 -7.508818355921316 Positive Positive Correct
+No. 20 is walter white getting arrested?
+-8.725655773770606 -12.010903329183664 Positive Positive Correct
+No. 21 personally, my favourite bb episode so far...
+-8.426504757695115 -11.213877073569007 Positive Positive Correct
+No. 22 best broadcast show in history
+-8.0406258871892 -11.491425973383464 Positive Positive Correct
+No. 23 dang!
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 24 absolute chaos
+-6.955702842603264 -9.152271032407503 Positive Positive Correct
+No. 25 too many things to handle!
+-7.076426656478365 -10.377482621076627 Positive Positive Correct
+No. 26 the desert scene is first-rate and eclipses some of the weaker parts of "to'hajiilee"
+-21.4430678431781 -29.221664639380755 Positive Positive Correct
+No. 27 the fun begins!
+-5.514119913262591 -7.453301028071485 Positive Positive Correct
+No. 28 i'm still sitting here...
+-4.7854411272083075 -7.633757092529616 Positive Positive Correct
+No. 29 you will not breath for an hour
+-6.411634798252988 -9.152271032407503 Positive Positive Correct
+No. 30 why 9.9? it deserves 10
+-3.0358057702806187 -4.45518124443109 Positive Positive Correct
+No. 31 the greatest episode of the greatest tv show of all time
+-6.623332048009526 -10.602862239588118 Positive Positive Correct
+No. 32 not what you might expect...
+-5.171901318196914 -7.772059790695899 Positive Positive Correct
+No. 33 the episode that has solidified breaking bad's status as the greatest show of all time
+-11.406238749655131 -14.697892036236569 Positive Positive Correct
+No. 34 ozymandias- even the most powerful fall...
+-10.07933930209895 -15.473098905973432 Positive Positive Correct
+No. 35 i feel sick
+-5.520526108544159 -7.647121054087598 Positive Positive Correct
+No. 36 the best episode in history of television
+-6.3274154437385715 -11.014304718663801 Positive Positive Correct
+No. 37 unbelievable
+-3.4114693842415043 -4.358271231423033 Positive Positive Correct
+No. 38 shock after shock to the fullest excess
+-5.71622460468319 -8.550211041079542 Positive Positive Correct
+No. 39 ozymandias ... the best hour of tv. ever.
+-9.297172432404459 -14.887485765695898 Positive Positive Correct
+No. 40 walter white is the king
+-6.821730195518738 -9.258296213357418 Positive Positive Correct
+No. 41 i guarantee you will cry
+-6.800800882617521 -9.152271032407503 Positive Positive Correct
+No. 42 breaking bad vs attack on titan
+-3.360316861794123 -4.756211240095071 Positive Positive Correct
+No. 43 best episode ever 10 out of 10
+-3.5819678974372158 -6.697426172398993 Positive Positive Correct
+No. 44 my name is ozymandias, king of tv series episodes and films alike.
+-18.548963937527486 -25.447408896592044 Positive Positive Correct
+No. 45 the most amazing hour of television ever produced.
+-12.558905697300958 -18.784147908577516 Positive Positive Correct
+No. 46 high expectations
+-5.397108545056392 -8.006142996729267 Positive Positive Correct
+No. 47 nothing beside remains
+-8.679587370786926 -11.469149578672312 Positive Positive Correct
+No. 48 my spoiler-free review of this week's episode of breaking bad
+-10.806837099915601 -16.041300630040425 Positive Positive Correct
+No. 49 get the 10/10 back!
+-3.65185906771461 -6.036660520733204 Positive Positive Correct
+No. 50 my dear walt, your world is coming to an end. and that makes me sad.
+-15.646238214181771 -21.422474355977517 Positive Positive Correct
+No. 51 how is it going to end
+-3.7542276849555156 -6.410331954678305 Positive Positive Correct
+No. 52 the reason was there from the beginning..
+-4.929033414265746 -7.294938535976236 Positive Positive Correct
+No. 53 "it's over"
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 54 holy....
+-3.4114693842415043 -5.057241235759052 Positive Positive Correct
+No. 55 true brilliance...
+-6.060438193123277 -9.152271032407503 Positive Positive Correct
+No. 56 supremely depressing and great just because of that
+-5.358321113553073 -7.633757092529616 Positive Positive Correct
+No. 57 they never run out of ideas...
+-7.874581846571633 -11.088938336960705 Positive Positive Correct
+No. 58 rock bottom
+-7.101830878281502 -9.152271032407503 Positive Positive Correct
+No. 59 granite state
+-5.792200710855604 -8.198028522968178 Positive Positive Correct
+No. 60 expertly written penultimate episode.
+-9.463133653057277 -12.344210842064012 Positive Positive Correct
+No. 61 what happens next ?!
+-4.472285371031249 -7.103053009737323 Positive Positive Correct
+No. 62 the best ending of an episode in tv history
+-6.324622543554401 -10.450033288225239 Positive Positive Correct
+No. 63 you can feel the intensity in the air....
+-8.0954051069703 -11.74215085073605 Positive Positive Correct
+No. 64 all hell is ready to break loose
+-11.579088296668683 -15.418051339642528 Positive Positive Correct
+No. 65 breaking bad sets a world record
+-8.849027742099246 -11.770179574336293 Positive Positive Correct
+No. 66 at the end of the episode...
+-1.8736502891682298 -3.695513399741459 Positive Positive Correct
+No. 67 yep were ready!
+-7.073802154681259 -8.307172992393246 Positive Positive Correct
+No. 68 live free or die
+-8.140139524073396 -12.344210842064014 Positive Positive Correct
+No. 69 "the sweet, kind, brilliant man that we once knew, long ago, he's now gone"
+-20.402609236606057 -27.693605381596637 Positive Positive Correct
+No. 70 great episode before the finale!
+-3.7214990159658985 -7.156635837809954 Positive Positive Correct
+No. 71 a perfect prologue for the epic epilogue..
+-13.010410920820828 -16.564179375320762 Positive Positive Correct
+No. 72 it's perfect
+-2.3507715438878924 -4.279089985375409 Positive Positive Correct
+No. 73 the calm before the storm...
+-6.147588368842177 -8.550211041079542 Positive Positive Correct
+No. 74 "what it is i know, but with gratitude my tears fall."
+-7.987099493978828 -11.690998328288668 Positive Positive Correct
+No. 75 i've just finished got
+-5.321993980440233 -7.830051737673584 Positive Positive Correct
+No. 76 so hard to say goodbye
+-7.834132033770285 -11.230267489757175 Positive Positive Correct
+No. 77 here after got
+-2.1715445709793526 -3.7350219410251326 Positive Positive Correct
+No. 78 the greatest tv show of all time
+-4.178483221783677 -6.9849536976593285 Positive Positive Correct
+No. 79 perfect end for a perfect series
+-8.234102941460366 -12.790831833339942 Positive Positive Correct
+No. 80 "riding alone in the dark. maybe tomorrow a bullet may find me."
+-19.41775716641747 -24.970746969764907 Positive Positive Correct
+No. 81 season 5 of breaking bad will be remembered as the single greatest achievement in television history
+-16.66636708192323 -23.498966463514357 Positive Positive Correct
+No. 82 goat
+-4.013529375569466 -5.057241235759052 Positive Positive Correct
+No. 83 this will be seriously missed
+-6.570351961239248 -8.249181045415561 Positive Positive Correct
+No. 84 heisenberg, the legend
+-6.048752434798082 -8.11087834724928 Positive Positive Correct
+No. 85 a+
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 86 why 9.9 ? should be 10, it's a perfect finale
+-4.501220953348773 -7.8969985273041985 Positive Positive Correct
+No. 87 a quiet, satisfying finale
+-8.34919030075044 -12.168119583008332 Positive Positive Correct
+No. 88 came here after end of got
+-6.606208498674226 -9.961293706976482 Positive Positive Correct
+No. 89 it's over
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 90 fantastic ending to a great show
+-5.9824312456241096 -10.386364208355863 Positive Positive Correct
+No. 91 we are forever in your debt vince gilligan
+-11.733341286622677 -15.433845606825757 Positive Positive Correct
+No. 92 best finale in television history
+-8.477864853199453 -14.632213260592591 Positive Positive Correct
+No. 93 one show to rule them all.
+-4.314559371233448 -4.756211240095071 Positive Positive Correct
+No. 94 thank god, no fades to black and no lumberjacks
+-12.974198748166383 -16.342330625704406 Positive Positive Correct
+No. 95 wooooow!
+-0.050166609465730205 -0.9622114391106003 Positive Positive Correct
+No. 96 best ending
+-3.7762331254214834 -6.832124746296449 Positive Positive Correct
+No. 97 perfection
+-3.2006160189266106 -5.057241235759052 Positive Positive Correct
+No. 98 back here to remember an amazing finale
+-9.070634768757184 -14.402811373085788 Positive Positive Correct
+
+
+Testing Against Negative Reviews
+No. 1 a corpse, a crook, and other problems that come from cooking crystal
+-14.19569186256327 -18.147325810990342 Positive Negative Incorrect
+No. 2 what to do?
+-0.050166609465730205 -0.9622114391106003 Positive Negative Incorrect
+No. 3 since the pilot succeeded at introducing walter white, the follow up is more of an effective thriller
+-25.533053298469657 -30.57320248814482 Positive Negative Incorrect
+No. 4 first crime !
+-4.621823935324352 -6.566810302899003 Positive Negative Incorrect
+No. 5 mr science meets the sopranos
+-9.459529528788451 -12.645240837727993 Positive Negative Incorrect
+No. 6 this was even more boring than the pilot
+-7.026467537571461 -9.532971069310722 Positive Negative Incorrect
+No. 7 the first season is the weakest
+-4.109940574345478 -7.411908342913259 Positive Negative Incorrect
+No. 8 a moral dilemma
+-6.879982128665146 -8.550211041079542 Positive Negative Incorrect
+No. 9 white turns the corner.
+-8.576361010002838 -10.811138182015199 Positive Negative Incorrect
+No. 10 false fronts.
+-7.256732838267245 -8.249181045415561 Positive Negative Incorrect
+No. 11 merely nice, but with the coolest arson scene in recent history
+-16.672016906707775 -22.169907744250136 Positive Negative Incorrect
+No. 12 breaking bad - gray matter
+-5.559835842554092 -8.453301028071484 Positive Negative Incorrect
+
+Precision:  1.0 Recall:  0.8909090909090909
+Model F-Measure with B=1:  0.9423076923076923
+
