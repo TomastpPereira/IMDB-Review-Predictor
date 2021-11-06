@@ -1,5 +1,4 @@
-Written by: Tomas Pereira (Student ID: 40128504)
-	For: For COMP 472 Section AJ-X – Summer 2021
+Written by: Tomas Pereira for COMP 472 – Summer 2021
 
 
 TO CREATE MODEL FILES AND TEST THEM
