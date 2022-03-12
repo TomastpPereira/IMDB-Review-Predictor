@@ -4,7 +4,7 @@ import pandas as pd
 import re   # For preprocessing, removing punctuation
 import math # For log10 function
 
-review_list = pd.read_csv(r'C:\Users\tomas\PycharmProjects\472Assignment2\data.csv')['Reviews Link'].to_list()
+review_list = pd.read_csv(r'data.csv')['Reviews Link'].to_list()
 positive_reviews = []
 negative_reviews = []
 positive_titles = []
